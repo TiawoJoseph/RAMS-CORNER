@@ -1,0 +1,424 @@
+
+*{
+    margin: 0;
+    padding: 0;
+  
+}
+.video{
+    width: 100%;
+    overflow: hidden;
+    height: 100vh;
+}
+.navbar-brand{
+    width:150px;
+    height:130px;
+    margin-top: -0.6em;
+}
+.navbar{
+background-color: white;
+height: 10vh;
+
+}
+.nav-link{
+    color: #000;
+    font-family: 'Alfa Slab One', cursive;
+
+}
+.nav-link:hover{
+    color: #3F0404;
+}
+.special{
+    padding: 0px;
+    background-color: #00;
+    color: #000;
+}
+#home{
+    width: 100%;
+    height:100vh;
+}
+nav ul li{
+    display: flex;
+    justify-content: space-evenly;
+    color:#000;
+    margin-top: 0.6em;
+    margin-left: 0.6em;
+
+}
+
+
+
+/*ABOUT SECTION STARTS HERE===========================================================================================================================================================*/
+#ABOUT{
+    width: 100%;
+    height:50vh;
+    background-color: #fff;
+}
+.ramStory{
+    padding: 6em;
+    font-family: 'Alfa Slab One', cursive;
+    font-size: 0.9em;
+}
+#menu{
+    width: 100%;
+    height: 137vh;
+    background-color: #000000;
+    background-image: url("./images/eat.jpg");
+
+}
+.EAT{
+    width: 100%;
+    height:1280px;
+}
+
+
+.UL li a{
+    /*color:white;
+    text-decoration: none;
+        
+position: absolute;
+width: 1397px;
+height: 177px;
+left: 274px;
+top: 206px;
+margin-top: 100em;
+
+    background: rgba(0, 0, 0, 0.87);
+    border: 2px solid #3F0404;
+    box-sizing: border-box;
+*/
+}
+.list-item1{
+    color:white;
+    text-decoration: none;
+    position: absolute;
+    width: 73.4%;
+    height: 177px;
+    left: 274px;
+    top: 206px;
+    margin-top: 83em;
+    background: rgba(0, 0, 0, 0.87);
+    border: 2px solid #3F0404;
+    box-sizing: border-box;
+    text-align: center;
+    text-decoration: none;
+    font-size: 1em;
+}
+.list-item1-1{
+    color:#8E8A8A;
+    text-decoration: none;
+    position: absolute;
+    top: 206px;
+    margin-top: 88em;
+    font-size: 1em;
+    text-align: center;
+    margin-left: 800px;
+}
+.list-item1-2{
+    color:#8E8A8A;
+    text-decoration: none;
+    position: absolute;
+    top: 206px;
+    margin-top: 91em;
+    font-size: 1em;
+    text-align: center;
+    margin-left: 950px;
+}
+.list-item2{
+    color:white;
+    text-decoration: none;
+    position: absolute;
+    width: 73.4%;
+    height: 177px;
+    left: 274px;
+    top: 206px;
+    margin-top: 94em;
+    background: rgba(0, 0, 0, 0.87);
+    border: 2px solid #3F0404;
+    box-sizing: border-box;
+    text-align: center;
+    text-decoration: none;
+    font-size: 1em;
+}
+.list-item2-2{
+    color:#8E8A8A;
+    text-decoration: none;
+    position: absolute;
+    top: 206px;
+    margin-top: 99em;
+    font-size: 1em;
+    text-align: center;
+    margin-left: 500px;
+}
+.list-item2-1{
+    color:#8E8A8A;
+    text-decoration: none;
+    position: absolute;
+    top: 206px;
+    margin-top: 102em;
+    font-size: 1em;
+    text-align: center;
+    margin-left: 950px;
+}
+.list-item3{
+    color:white;
+    text-decoration: none;
+    position: absolute;
+    width: 73.4%;
+    height: 177px;
+    left: 274px;
+    top: 206px;
+    margin-top: 105em;
+    background: rgba(0, 0, 0, 0.87);
+    border: 2px solid #3F0404;
+    box-sizing: border-box;
+    text-align: center;
+    text-decoration: none;
+    font-size: 1em;
+}
+.list-item3-3{
+    color:#8E8A8A;
+    text-decoration: none;
+    position: absolute;
+    top: 206px;
+    margin-top: 110em;
+    font-size: 1em;
+    text-align: center;
+    margin-left: 700px;
+}
+.list-item3-1{
+    color:#8E8A8A;
+    text-decoration: none;
+    position: absolute;
+    top: 206px;
+    margin-top: 113em;
+    font-size: 1em;
+    text-align: center;
+    margin-left: 950px;
+}
+.list-item4{
+    color:white;
+    text-decoration: none;
+    position: absolute;
+    width: 73.4%;
+    height: 177px;
+    left: 274px;
+    top: 206px;
+    margin-top: 116em;
+    background: rgba(0, 0, 0, 0.87);
+    border: 2px solid #3F0404;
+    box-sizing: border-box;
+    text-align: center;
+    text-decoration: none;
+    font-size: 1em;
+}
+.list-item4-4{
+    color:#8E8A8A;
+    text-decoration: none;
+    position: absolute;
+    top: 206px;
+    margin-top: 121em;
+    font-size: 1em;
+    text-align: center;
+    margin-left: 500px;
+}
+.list-item4-1{
+    color:#8E8A8A;
+    text-decoration: none;
+    position: absolute;
+    top: 206px;
+    margin-top: 124em;
+    font-size: 1em;
+    text-align: center;
+    margin-left: 950px;
+}
+.list-item5{
+    color:white;
+    text-decoration: none;
+    position: absolute;
+    width: 73.4%;
+    height: 177px;
+    left: 274px;
+    top: 206px;
+    margin-top: 127em;
+    background: rgba(0, 0, 0, 0.87);
+    border: 2px solid #3F0404;
+    box-sizing: border-box;
+    text-align: center;
+    text-decoration: none;
+    font-size: 1em;
+}
+.list-item5-5{
+    color:#8E8A8A;
+    text-decoration: none;
+    position: absolute;
+    top: 206px;
+    margin-top: 132em;
+    font-size: 1em;
+    text-align: center;
+    margin-left: 620px;
+}
+.list-item5-1{
+    color:#8E8A8A;
+    text-decoration: none;
+    position: absolute;
+    top: 206px;
+    margin-top: 135em;
+    font-size: 1em;
+    text-align: center;
+    margin-left: 950px;
+}
+.list-item6{
+    color:white;
+    text-decoration: none;
+    position: absolute;
+    width: 73.4%;
+    height: 177px;
+    left: 274px;
+    top: 206px;
+    margin-top: 138em;
+    background: rgba(0, 0, 0, 0.87);
+    border: 2px solid #3F0404;
+    box-sizing: border-box;
+    text-align: center;
+    text-decoration: none;
+    font-size: 1em;
+}
+
+#order{
+    width: 100%;
+    height:50vh;
+    background-color: #000;
+    color:white;
+}
+
+
+#footer{
+    width: 100%;
+    height:25vh;
+    background-color: #fff;
+}
+
+
+
+/*THIS IS THE SECTION FOR THE CONTACT HTML PAGE=+++++++++++++++++++===============================================================================================================================================*/
+.ohlo{
+    width: 100%;
+    height:100vh;
+
+}
+.form-group1{
+    position: absolute;
+    top: 30%;
+    padding-top: 100px;
+    width: 50%;
+    color: #fff;
+
+}
+.form-group2{
+    position: absolute;
+    top: 40%;
+    padding-top: 100px;
+    width: 50%;
+    color: #fff;
+
+}
+
+.form-group3{
+    position: absolute;
+    top: 50%;
+    padding-top: 100px;
+    width: 50%;
+    color: #fff;
+}
+#form-group4{
+    position: absolute;
+    top: 77%;
+    color: #fff;
+    
+}
+.form-group5{
+    position: absolute;
+    top: 1%;
+    padding-top: 100px;
+    padding-left: 800px;
+    color: #fff;
+}
+
+/**This is the section for the ORDER.HTML PAGE========================================================================================================================================================*/
+
+.delivery{
+    width: 100%;
+    height: 100vh;
+}
+.fg1{
+    position: absolute;
+    top: 10%;
+    color: #fff;
+    width: 45%;
+}
+.form-group6{
+    position: absolute;
+    top: 30%;
+    color: #fff;
+    width: 45%;
+}
+
+.form-group7{
+    position: absolute;
+    top: 40%;
+    color: #fff;
+    width: 45%;
+}
+
+.form-group8{
+    position: absolute;
+    top: 50%;
+    color: #fff;
+    width: 45%;
+}
+.form-group9{
+    position: absolute;
+    top: 60%;
+    color: #fff;
+    width: 45%;
+}
+#form-group10{
+    position: absolute;
+    top: 77%;
+    color: #fff;
+    width: 45%;
+}
+.form-bg{
+background: black;
+
+}
+
+
+/*THIS IS THE SECTION FOR THE INSTARAM AND ORDER FORM ++++++++============================================================================================================================*/
+
+.instagram{
+    width: 7%;
+    height:15.13vh ;
+    margin-left: 500px;
+    margin-top: 60px;
+}
+.ramsC-lg{
+    margin-left: 500px;
+    margin-top: 90px;
+}
+#order h2, h3{
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/*ORDER.HTML STARTS HERE===================================================================================================================================================================*/
